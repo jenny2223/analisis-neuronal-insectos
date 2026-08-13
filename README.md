@@ -3,7 +3,8 @@
 Repositorio del curso *De la neurona a la figura: análisis neuronal en insectos asistido por IA*.
 Aquí queda todo mi trabajo del semestre: talleres, laboratorios y proyecto final.
 
-**Autor:** <Jenny Michelle Serna Merchan>
+**Autor:** Jenny Michelle Serna Merchan
+
 **Modelo experimental:** grillo (*Acheta domestica*), sistema cercal
 **Herramientas:** Python, pandas, matplotlib, Google Colab
 
